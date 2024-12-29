@@ -1,0 +1,54 @@
+{
+  "description": "This is a system generated manifest of files expected to be present in this zip. It can be safely deleted.",
+  "metadata": {
+    "generated_at": "2024-11-25T09:07:59+00:00",
+    "trigger": {
+      "file_hashid": "unknown",
+      "action": "unknown"
+    }
+  },
+  "manifest": [
+    {
+      "filename": "VariableDefinitions.docx",
+      "filesize": 8616,
+      "description": "This file describes the variables found in train and test. ",
+      "created_at": "2024-11-06 10:42:45 UTC",
+      "updated_at": "2024-11-06 10:43:08 UTC"
+    },
+    {
+      "filename": "SampleSubmission.csv",
+      "filesize": 29933,
+      "description": "Is an example of what your submission file should look like. The order of the rows does not matter, but the names of the \"ID\" must be correct.",
+      "created_at": "2024-11-07 11:12:44 UTC",
+      "updated_at": "2024-11-07 11:12:47 UTC"
+    },
+    {
+      "filename": "Starter_Notebook.ipynb",
+      "filesize": 190456,
+      "description": "This is a starter notebook to help you make your first submission. ",
+      "created_at": "2024-11-08 09:49:50 UTC",
+      "updated_at": "2024-11-08 09:49:53 UTC"
+    },
+    {
+      "filename": "GIZ-ADEX Registration.pdf",
+      "filesize": 456770,
+      "description": "How to register for the ADeX platform. ",
+      "created_at": "2024-11-22 09:47:39 UTC",
+      "updated_at": "2024-11-22 09:47:42 UTC"
+    },
+    {
+      "filename": "Test.csv",
+      "filesize": 1240789,
+      "description": "Test resembles Train.csv but without the target-related columns. This is the dataset on which you will apply your model to.",
+      "created_at": "2024-11-25 09:06:55 UTC",
+      "updated_at": "2024-11-25 09:06:59 UTC"
+    },
+    {
+      "filename": "Train.csv",
+      "filesize": 3497588,
+      "description": "Train contains the target. This is the dataset that you will use to train your model.",
+      "created_at": "2024-11-25 09:07:04 UTC",
+      "updated_at": "2024-11-25 09:07:09 UTC"
+    }
+  ]
+}

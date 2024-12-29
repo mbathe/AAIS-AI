@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "telangana-crop-health-challenge"
+version = "0.1.0"
+description = ""
+authors = ["mbathe <mbathepaul@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+earthengine-api = "^1.4.3"
+geopandas = "^1.0.1"
+rasterio = "^1.4.3"
+rasterstats = "^0.20.0"
+shapely = "^2.0.6"
+joblib = "^1.4.2"
+tqdm = "^4.67.1"
+geemap = "^0.35.1"
+setuptools = "^75.6.0"
+lightgbm = "^4.5.0"
+scikit-image = "^0.25.0"
+scikit-learn = "^1.6.0"
+pandas = "^2.2.3"
+seaborn = "^0.13.2"
+gdown = "^5.2.0"
+python-dotenv = "^1.0.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
