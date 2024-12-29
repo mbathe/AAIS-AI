@@ -1,4 +1,4 @@
-# 🍲 AAAIS-AI 
+# 🍲 AAIS-AI 
 
 ### ZINDI Project on Crop Health in Telangana State
 
@@ -16,8 +16,8 @@ Environment variables are stored in the `.env` file.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/mbathe/projet_kit_big_data.git
-cd projet_kit_big_data
+git clone https://github.com/mbathe/zindi_telangana_crop_health_challenge.git
+cd zindi_telangana_crop_health_challenge
 ```
 
 ### Step 2: Install Dependencies
